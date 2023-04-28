@@ -1,0 +1,33 @@
+#detail-siswa {
+    border-collapse: collapse;
+    background-color: rgb(109, 130, 151);
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+
+    margin: auto;
+}
+
+tr {
+    border: white;
+}
+
+.link {
+    color: lavender;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornsilk;
+    background-color: burlywood;
+    
+}
+
+#detail-siswa td {
+    padding: 20px;
+}
+
+#detail-siswa h3 {
+    font-size: 32px;
+}

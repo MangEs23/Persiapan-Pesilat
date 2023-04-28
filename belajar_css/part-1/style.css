@@ -1,0 +1,36 @@
+#tabel-siswa {
+    border-collapse: collapse;
+    background: url(../../belajar_html/gambar.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+
+    margin: auto;
+}
+
+tr {
+    border: white;
+}
+
+.link {
+    color: lavender;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornsilk;
+    background-color: burlywood;
+    
+}
+
+#tabel-siswa td {
+    padding: 20px;
+}
+
+#tabel-siswa h3 {
+    font-size: 32px;
+}
